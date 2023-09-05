@@ -1,4 +1,4 @@
-# ChainRange Template Class Documentation
+# ChainRange Template Class
 
 The `ChainRange` template class allows you to create a range of values in a chained manner, similar to Python's `range()` function. It generates a sequence of values from a specified starting point to an ending point with a given step increment. This documentation provides an overview of the class, its constructors, and how to use it.
 
